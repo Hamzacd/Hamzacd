@@ -30,7 +30,7 @@
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
+![React](https://img.shields.io/badge/-Reactjs-000?&logo=Reactjs)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 
